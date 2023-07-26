@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.for{
+    padding-left: 15%;
+    padding-top: 20px;
+}
+#para{
+    padding-top: 30px;
+}
